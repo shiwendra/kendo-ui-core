@@ -20,7 +20,7 @@ The example below demonstrates how to edit data in a Kendo UI Window using MVVM 
     </script>
 
     <!-- kendoWindow -->
-    <div id="editForm">
+    <div id="createForm">
       <h2>Edit Form</h2>
       <ul>
         <li>
